@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 div {
     height: 200px;
     width: 400px;
@@ -10,6 +12,7 @@ div {
 }
 
 table {
+    font-family: 'Roboto', sans-serif;
     color: #fff;
     text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
     background-image: url("./123.gif");
