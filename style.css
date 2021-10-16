@@ -8,3 +8,9 @@ div {
     margin-top: -100px;
     margin-left: -200px;
 }
+
+table {
+    color: #fff;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+    background-image: url("./123.gif");
+}
